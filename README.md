@@ -1,1 +1,5 @@
-# Residential-Turf-Installation-app
+- 👋 Hi, I'm @deniseturfroberts
+- 👀 I'm interested in ... serving my residential turf customers
+- 🌿 I'm currently learning ... how to write code for my residential turf software
+- 🧠  I'm looking to collaborate on ... my residential turf software
+- 📬 how to reach me ... visit my <a href="https://www.artificialturfexpertssocal.com/residential-turf">Residential Turf Installation</a> website
